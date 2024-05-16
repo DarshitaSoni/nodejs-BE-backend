@@ -1,0 +1,52 @@
+
+
+
+Zipcode = {
+    id: 11813,
+    zipcode: "77027",
+    city_id: 3726,
+    county_id: 1399,
+    state_id: 4,
+    country_id: 1,
+    slug: "q6bwmcolekm4",
+    created_at: Fri, 29 Mar 2024 06:32:47.870950000 PDT -07:00,
+    updated_at: Fri, 29 Mar 2024 06:32:47.870950000 PDT -07:00,
+    code_type: nil
+}
+County = {
+    id: 1555,
+    name: "Arapahoe",
+    state_id: 42, --------------------------------------------------------
+    slug: "nxsm6ulcefjg",
+    created_at: Thu, 15 Feb 2024 22:01:39.415558000 PST -08:00,
+    updated_at: Thu, 15 Feb 2024 22:01:39.415558000 PST -08:00
+}
+Country = {
+    id: 3,
+    name: "USA",
+    country_code: nil,
+    phone_code: nil,
+    slug: "xuwcligps87u",
+    created_at: Fri, 19 Feb 2021 04:03:46.428382000 PST -08:00,
+    updated_at: Fri, 19 Feb 2021 04:03:46.428382000 PST -08:00
+}
+City = {
+    id: 9210,
+    name: "Chula Vista",
+    county_id: 12, ------------------------------------------
+    state_id: 1, ---------------------------------------------------------
+    slug: "vwdol6nmx2gt",
+    created_at: Fri, 02 Sep 2022 17:08:10.167784000 PDT -07:00,
+    updated_at: Fri, 21 Oct 2022 07:40:00.507591000 PDT -07:00,
+    acceptable_cities: nil,
+    timezone: nil
+}
+State = {
+    id: 13,
+    name: "Georgia",
+    code: "GA",
+    country_id: 1, ---------------------------------------------------
+    slug: "svpe8gj6mbad",
+    created_at: Tue, 02 Feb 2021 03:29:57.584532000 PST -08:00,
+    updated_at: Fri, 28 Jan 2022 08:01:49.242648000 PST -08:00
+}
